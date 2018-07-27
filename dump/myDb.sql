@@ -9,8 +9,16 @@ CREATE TABLE `Person` (
 
 
 INSERT INTO `Person` (`id`, `name`, `age`) VALUES
-(1, 'Loki', 32),
-(2, 'Homem de Ferro', 35),
-(3, 'Capitao America', 80),
-(4, 'Homem Formiga', 30),
-(5, 'Hulk', 41);
+(1, 'Wanda', 32),
+(2, 'IronMan', 35),
+(3, 'Capitain America', 80),
+(4, 'AntMan', 30),
+(5, 'Hulk', 38),
+(6, 'Black Widow', 27),
+(7, 'Dr. Strange', 36),
+(8, 'SpiderMan', 17),
+(9, 'Vision', 0),
+(10, 'Black Panther', 29),
+(11, 'Groot', 15),
+(12, 'Star Lord', 32),
+(13, 'Drax', 35);
