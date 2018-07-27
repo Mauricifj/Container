@@ -11,6 +11,6 @@ CREATE TABLE `Person` (
 INSERT INTO `Person` (`id`, `name`, `age`) VALUES
 (1, 'Loki', 32),
 (2, 'Homem de Ferro', 35),
-(3, 'Capitão América', 80),
+(3, 'Capitao America', 80),
 (4, 'Homem Formiga', 30),
 (5, 'Hulk', 41);
